@@ -8,7 +8,7 @@ export default {
     extend: {
       backgroundImage: {
         'hero-pattern': "url('./assets/hero_page.jpeg')",
-        'footer-texture': "url('./assets/about_us.webp')",
+        'about-texture': "url('./assets/about_us.webp')",
       }
     },
   },

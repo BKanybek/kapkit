@@ -3,7 +3,7 @@ import { PiTelegramLogo } from "react-icons/pi";
 import { LuPhoneCall } from "react-icons/lu";
 const Navbar = () => {
     return (
-        <div className='absolute z-10 w-full h-[100px] flex justify-between items-center px-20'>
+        <div className='absolute z-10 w-full h-[100px] flex justify-between items-center px-10'>
             <div>
                 <ul className='flex gap-4'>
                     <li className=' text-white cursor-pointer'>О нас</li>
